@@ -1,37 +1,31 @@
-# 👋 Hola, soy [Tu Nombre]!
+# 👋 Hola, soy Hugo
 
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
     <img src="URL_DE_TU_IMAGEN" alt="Descripción de la imagen" width="300" />
-    <p>¡Bienvenido a mi perfil de GitHub! Aquí encontrarás mis proyectos y contribuciones en diversas áreas de desarrollo.</p>
+    <p>✨ ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás mis proyectos y contribuciones en diversas áreas de desarrollo. 🎉</p>
 </div>
 
 ## 🚀 Proyectos Destacados
 
-- [Nombre del Proyecto 1](enlace-al-proyecto-1): Breve descripción de lo que hace este proyecto.
-- [Nombre del Proyecto 2](enlace-al-proyecto-2): Breve descripción de lo que hace este proyecto.
-- [Nombre del Proyecto 3](enlace-al-proyecto-3): Breve descripción de lo que hace este proyecto.
+- 🌟 [Nombre del Proyecto 1](enlace-al-proyecto-1): Breve descripción de lo que hace este proyecto.
+- 🌟 REARVIEW <a href="https://discord.gg/NFrnR39C" target="_blank">
+    <img src="![image](https://github.com/user-attachments/assets/967eaf25-cb47-4618-9335-054a00c37e36)
+" alt="Descripción de la imagen" width="300" />
+</a>: Breve descripción de lo que hace este proyecto.
+
 
 ## 🛠️ Tecnologías
 
-- Lenguajes: 
+- 💻 **Lenguajes**: 
   - JavaScript
   - C#
   - HTML
   - CSS
-- Frameworks: 
+- 📦 **Frameworks**: 
   - React
   - Unity
-- Herramientas: 
+- ⚙️ **Herramientas**: 
   - Git
   - GitHub
   - Visual Studio Code
 
-## 📊 Habilidades de Programación
-
-```javascript
-// Ejemplo de código en JavaScript
-function saludar(nombre) {
-    return `¡Hola, ${nombre}!`;
-}
-
-console.log(saludar("Hugo"));
