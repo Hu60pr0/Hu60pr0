@@ -58,12 +58,13 @@ Me encanta contribuir a proyectos de código abierto. Algunos de mis aportes rec
 
 ### 📈 GitHub Stats
 
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miusuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Hu60pr0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hu60pr0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ### 📊 Lenguajes más utilizados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hu60pr0&layout=compact&theme=radical)
+
 
 
