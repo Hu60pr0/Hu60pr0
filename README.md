@@ -41,11 +41,7 @@ Un juego de combate vehicular en 3D desarrollado con **Unity** y **C#**. No es m
 
 
 
-## 🌱 Contribuciones a Proyectos Open Source
-Me encanta contribuir a proyectos de código abierto. Algunos de mis aportes recientes incluyen:
 
-- **[Repositorio A](https://github.com/miusuario/repositorio-a)**: Ayudé a mejorar la accesibilidad y la documentación.
-- **[Repositorio B](https://github.com/miusuario/repositorio-b)**: Trabajé en la optimización de las rutas y la gestión de usuarios.
 
 ## 📫 ¿Cómo contactarme?
 
