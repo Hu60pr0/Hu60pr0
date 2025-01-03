@@ -53,9 +53,7 @@ Me encanta contribuir a proyectos de código abierto. Algunos de mis aportes rec
 - 🌐 **Website**: [miportafolio.com](https://hu60pr0.github.io/HugoPortfolio/)
 
 
-
 ---
-
 ### 📈 GitHub Stats
 
 ![Hu60pr0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hu60pr0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
@@ -65,6 +63,3 @@ Me encanta contribuir a proyectos de código abierto. Algunos de mis aportes rec
 ### 📊 Lenguajes más utilizados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hu60pr0&layout=compact&theme=radical)
-
-
-
